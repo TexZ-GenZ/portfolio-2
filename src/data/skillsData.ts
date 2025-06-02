@@ -4,22 +4,22 @@ export const mobileSkills: Skill[] = [
   {
     name: 'Flutter',
     icon: '💙',
-    description: 'Cross-platform development'
+    description: 'Production mobile apps'
   },
   {
     name: 'Dart',
     icon: '🎯',
-    description: 'Modern language'
+    description: 'Flutter & server-side'
   },
   {
     name: 'Bloc',
     icon: '🧩',
-    description: 'State management'
+    description: 'Enterprise state management'
   },
   {
     name: 'Riverpod',
     icon: '🔥',
-    description: 'Reactive state'
+    description: 'Modern state solution'
   }
 ];
 
@@ -27,22 +27,22 @@ export const backendSkills: Skill[] = [
   {
     name: 'FastAPI',
     icon: '⚡',
-    description: 'High-performance APIs'
+    description: 'Async REST APIs'
   },
   {
     name: 'Python',
     icon: '🐍',
-    description: 'Backend & scripting'
+    description: 'Backend microservices'
   },
   {
-    name: 'REST',
-    icon: '🌐',
-    description: 'API design'
+    name: 'PostgreSQL',
+    icon: '🗄️',
+    description: 'Production databases'
   },
   {
-    name: 'GraphQL',
+    name: 'SQLAlchemy',
     icon: '📊',
-    description: 'Query language'
+    description: 'ORM & migrations'
   }
 ];
 
@@ -50,22 +50,22 @@ export const cloudSkills: Skill[] = [
   {
     name: 'AWS',
     icon: '☁️',
-    description: 'Cloud infrastructure'
+    description: 'Cloud architecture'
   },
   {
     name: 'Docker',
     icon: '🐳',
-    description: 'Containerization'
+    description: 'Production deployment'
   },
   {
-    name: 'AWS S3',
-    icon: '📦',
-    description: 'Object storage'
+    name: 'Kubernetes',
+    icon: '⚙️',
+    description: 'Container orchestration'
   },
   {
-    name: 'Cognito',
-    icon: '🔐',
-    description: 'Authentication'
+    name: 'Redis',
+    icon: '🚀',
+    description: 'Caching & sessions'
   }
 ];
 
@@ -78,12 +78,12 @@ export const programmingSkills: Skill[] = [
   {
     name: 'C++',
     icon: '💪',
-    description: 'Competitive programming'
+    description: 'DSA & algorithms'
   },
   {
-    name: 'TypeScript',
-    icon: '📘',
-    description: 'Type-safe JavaScript'
+    name: 'Dart',
+    icon: '🎯',
+    description: 'Cross-platform apps'
   },
   {
     name: 'SQL',
